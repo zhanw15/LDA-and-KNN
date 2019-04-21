@@ -2,7 +2,8 @@
 ## how to use it
 
 put it in matlab, and use it.  
-  
+
+'''matlab
 % ============= how to use KNN =====================  
 %% Data is the test Matrix. We get it target by knn.  
 %%    
