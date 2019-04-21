@@ -3,7 +3,7 @@
 
 put it in matlab, and use it.  
 
-'''matlab
+```matlab  
 % ============= how to use KNN =====================  
 %% Data is the test Matrix. We get it target by knn.  
 %%    
@@ -12,7 +12,7 @@ put it in matlab, and use it.
 %%  
 %% Result = KNN( Data, Input, Target, k);  
 % ==================================================  
-'''
+```
   
 ## contact me
 tel: 15294189728  
