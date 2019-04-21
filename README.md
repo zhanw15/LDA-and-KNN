@@ -12,6 +12,7 @@ put it in matlab, and use it.
 %%  
 %% Result = KNN( Data, Input, Target, k);  
 % ==================================================  
+'''
   
 ## contact me
 tel: 15294189728  
